@@ -1,0 +1,14 @@
+[{
+    "id":1,
+    "major":"CS",
+    "coursesrequired":[{
+        "":""
+    }]
+},{
+    "id":2,
+    "major":"CIS",
+    "coursesrequired":[{
+        "":""
+    }]
+}
+]
