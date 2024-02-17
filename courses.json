@@ -1,0 +1,42 @@
+[{
+    "prerequisite":{
+        "or": [{
+            "MATH142": 70
+        }]
+    },
+    "courseID": "662bea32-9ceb-4f83-9c1d-b3d413c5e017",
+    "courseKey":"MATH241",
+    "courseName": "Vector Calculus",
+    "courseDescription":"An introduction to multivariable calculus, including vectors and vector-valued functions, partial derivatives and applications of partial derivatives (such as tangent planes and Lagrange multipliers), multiple integrals, volume, surface area, and the classical theorems of Green, Stokes and Gauss.",
+    "courseAvailability": true,
+    "courseCredits": 3.5,
+    "courseTerm": "Spring and Fall"
+},
+{
+    "prerequisite":{
+        "and":[{
+            "CSCE145": 70
+        }],
+        "pre_or_coreq":[{
+            "MATH122": 70,
+            "MATH141": 70
+        }]
+    },
+    "courseID":"c4f3f3a2-cfcf-4612-9b9e-d830514ba2c4",
+    "courseKey":"CSCE146",
+    "courseName":"Algorithmic Design II",
+    "courseDescription":"Rigorous development of algorithms and computer programs; elementary data structures. Three lecture hours and two laboratory hours per week. Open to all majors.",
+    "courseAvailability": true,
+    "courseCredits": 4,
+    "courseTerm": "Spring and Fall"
+},
+{
+    "prerequisite":{},
+    "courseID": "962c9a4e-7bd7-4fe4-adf1-bf9a0bf911c6",
+    "courseKey":"CSCE390",
+    "courseName":"Prof. Issues in Computer Science Engr",
+    "courseDescription": "Professional issues in the information technology professions; history and social context of computing; professional responsibilities; privacy; intellectual property; risks and liabilities of computer-based systems.",
+    "courseAvailability": true,
+    "courseCredits": 1,
+    "courseTerm": "Spring and Fall"
+}]
