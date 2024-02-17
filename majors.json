@@ -1,5 +1,5 @@
 [{
-    "majorid":1,
+    "majorid":"cd28e093-e17f-49e2-b11c-163cbf993b26",
     "name":"CS",
     "description":"Computer Science",
     "coursescodes": [
@@ -15,7 +15,7 @@
         "LIB_ARTS_ELECTIVE", "LAB_ELECTIVE"
     ]
 },{
-    "majorid":2,
+    "majorid":"177cb7f6-2b0e-4718-a68d-327c6252a88a",
     "name":"CIS",
     "description":"Computer Information Systems",
     "coursescodes": [
