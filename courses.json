@@ -17,10 +17,9 @@
         "and":[{
             "CSCE145": 70
         }],
-        "pre_or_coreq":[{
-            "MATH122": 70,
-            "MATH141": 70
-        }]
+        "pre_or_coreq":[
+            {"MATH122": 70}
+            {"MATH141": 70}]
     },
     "courseID":"c4f3f3a2-cfcf-4612-9b9e-d830514ba2c4",
     "courseKey":"CSCE146",
