@@ -1,15 +1,9 @@
 [{
-    "advisorid":"7871b844-03b3-40a8-b2d3-c410ef6a2eae",
-    "studentid":"e89275a9-a198-4eb3-a0a4-307600195b89",
     "userid" : "513b2857-a10f-4aac-87a8-b094604a3001"
 },{
-    "advisorid":"133c3a78-9644-4334-aec5-2640e0c12259",
-    "studentid":"8dcb56ca-e8d9-4fc5-b0e0-a64a6abebba0",
     "userid" : "8d6928e2-140a-4ef8-b5b3-96ceabfd4b45"
 
 },{
-    "advisorid":"6f938748-c8cc-475e-b260-81baad2de5ae", 
-    "studentid":"781d3938-f8a8-4bfe-b35e-86003c1bea96",
     "userid" : "ed5a1258-e687-4865-af76-c5c7ddf5250d"
 }
 ]
