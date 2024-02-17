@@ -2,8 +2,6 @@
     "studentid":1,
     "userid":1,
     "advisorid":1,
-    "firstName":"UUID 3", 
-    "lastName":"UUID 4",
     "major":"UUID 4",
     "classification":"Sophomore",
     "liberalArts": [{
@@ -30,8 +28,6 @@
     "studentid":2,
     "userid":2,
     "advisorid":2,
-    "firstName":"UUID 3", 
-    "lastName":"UUID 4",
     "major":"UUID 4",
     "classification":"Junior",
     "liberalArts": [{
@@ -58,8 +54,6 @@
     "studentid":2,
     "userid":2,
     "advisorid":2,
-    "firstName":"UUID 3", 
-    "lastName":"UUID 4",
     "major":"UUID 4",
     "classification":"Junior",
     "liberalArts": [{
