@@ -3,16 +3,12 @@
     "advisorid":"7871b844-03b3-40a8-b2d3-c410ef6a2eae",
     "major":"cd28e093-e17f-49e2-b11c-163cbf993b26",
     "classification":"Sophomore",
-    "liberalArts": [{
+    "year1": [{
         "courseCode": ["UUID1"],
         "Grade": ["A","B","c","A","B+","A","B","C","B+","A"]
 
     }],
-    "electives": [{
-        "courseCode": [],
-        "Grade": ["A","A","B+","A","C","B+","A","A","B","c"]
-    }],
-    "applicationArea": [{
+    "year2": [{
         "courseCode": [],
         "Grade": ["A","A","B+","A","C","B+","A","A","B","c"]
     }],

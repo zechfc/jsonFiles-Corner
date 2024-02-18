@@ -124,9 +124,9 @@
 {
     "prerequisite":{
         "pre":[
-            {"courseID": "Math111"}]
+            {"courseID": "962c9a4e-7bd7-4fe4-adf1-bf9a0bf911c6"}]
     },    
-    "courseID": "962c9a4e-7bd7-4fe4-adf1-bf9a0bf911c6",
+    "courseID": "46fb49c2-44de-40df-9043-fc935c1f16e6",
     "courseKey":"ENGL102",
     "courseName":"Rhetoric and Composition ",
     "courseDescription": "Instruction and intensive practice in researching, analyzing, and composing written arguments about academic and public issues.",
