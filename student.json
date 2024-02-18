@@ -1,11 +1,10 @@
 [{
-    "studentid":"e89275a9-a198-4eb3-a0a4-307600195b89",
-    "userid":"d5478261-e50a-4ff9-b8bf-8c03b0280bc2"    ,
-    "advisorid":"7871b844-03b3-40a8-b2d3-c410ef6a2eae    ",
+    "userid":"d5478261-e50a-4ff9-b8bf-8c03b0280bc2",
+    "advisorid":"7871b844-03b3-40a8-b2d3-c410ef6a2eae",
     "major":"cd28e093-e17f-49e2-b11c-163cbf993b26",
     "classification":"Sophomore",
     "liberalArts": [{
-        "courseCode": ["UUID"],
+        "courseCode": ["UUID1"],
         "Grade": ["A","B","c","A","B+","A","B","C","B+","A"]
 
     }],
@@ -23,21 +22,20 @@
     
 
 },{
-    "studentid":"8dcb56ca-e8d9-4fc5-b0e0-a64a6abebba0"    ,
     "userid":"5c280f3c-c2a8-4f0a-abe4-754a9aee5bff",
     "advisorid":"133c3a78-9644-4334-aec5-2640e0c12259",
     "major":"177cb7f6-2b0e-4718-a68d-327c6252a88a",
     "classification":"Junior",
-    "liberalArts": [{
-        "courseCode": [],
+    "year": [{
+        "courseCode": ["f3f0c399-8e05-4ac8-b80c-82c63360ffa8","458fa4fb-af61-48e5-b33f-ae4f65b2feb0"],
         "Grade": ["A","B","c","A","B+","A","B","C","B+","A","A","B+","A","B","C","A","B","c","A","B+"]
 
     }],
-    "electives": [{
+    "year": [{
         "courseCode": [],
         "Grade": ["A","A","B+","A","C","B+","A","A","B","C","A","B+","A","C","B+","B","C","B+","A","A"]
     }],
-    "applicationArea": [{
+    "year": [{
         "courseCode": [],
         "Grade": ["A","A","B+","A","C","B+","A","A","B","C","B+","A","C","B+","A","c","B+","A","C","B+"]
     }],
@@ -46,7 +44,6 @@
     
     },
     {
-    "studentid":"781d3938-f8a8-4bfe-b35e-86003c1bea96",
     "userid":"50809b79-5942-4dd6-9b8b-e64af7066bb6",
     "advisorid":"6f938748-c8cc-475e-b260-81baad2de5ae",
     "major":"177cb7f6-2b0e-4718-a68d-327c6252a88a",

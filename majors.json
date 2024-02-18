@@ -2,7 +2,18 @@
     "majorid":"cd28e093-e17f-49e2-b11c-163cbf993b26",
     "name":"CS",
     "description":"Computer Science",
-    "coursescodes": [
+    "totalHoursprogramRequirements":[46,55],
+    "programRequirements": [{
+        "courseCodeFoundational": ["MATH241","MATH344","MATH344L"],
+        "hoursFoundational": 16,
+        "courseCodeLab": ["075dc2b0-8f5a-4fdd-8f9e-9925317b9650","740f0ce5-16b1-4915-b377-0f7082110193","ASTR 101"],
+        "hoursLab": 4,
+        "courseCodeElectives": ["","this is blank on purpose bc its any class not specified"],
+        "hoursElectives": [4,13],
+        "courseCodeMajor": ["MATH241","MATH344","MATH344L"],
+        "hoursMajor": 16
+}],
+    "coursescodesElec": [
         "ENGL101", "MATH141", "CSCE145", "CSCE190", "ENGL102", "MATH142", 
         "CHEM111", "PHYS211", "CHEM 111L", "PHYS211L", "CSCE146", "CSCE215", 
         "CSCE211", "CSCE240", "MATH374", "CHEM112", "PHYS212", "CHEM112L", 
