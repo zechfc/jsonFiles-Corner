@@ -4,62 +4,98 @@
     "major":"cd28e093-e17f-49e2-b11c-163cbf993b26",
     "classification":"Sophomore",
     "year1": [{
-        "courseCode": ["UUID1"],
-        "Grade": ["A","B","c","A","B+","A","B","C","B+","A"]
+        "fall": [{
+            "courseCodes": ["b5e7e0d0-f63f-4e14-bc19-041deab09f5c","4a00e68d-b385-458f-aac6-719959a37280","3a26f80c-4867-4e36-949a-553c403433e0", "65ddf1c8-1c8f-4b97-ad87-33d5816c447e","bb5b9677-eea0-44cb-825c-2d40010aad71"],
+            "Grade": ["A","B","C","A","B+"]
+        }],
+        "spring": [{
+            "courseCodes": ["bb5b9677-eea0-44cb-825c-2d40010aad71","577ed51a-9123-43da-a09a-629e139ad276","49a0d284-1de7-4511-b481-ff6d60b7339b", "17ac1913-d4ae-4ab4-aa39-4cceeaa36d4d", "408e3294-1714-4f2f-bbc0-498385b662fc" ],
+            "Grade": ["A","B","C","B+","A"]
+        }],
+        "summer": [{
+   
+        }]
 
     }],
-    "year2": [{
-        "courseCode": [],
-        "Grade": ["A","A","B+","A","C","B+","A","A","B","c"]
+    "currentYear": [{
+        "fall": [{
+            "courseCodes": ["b5e7e0d0-f63f-4e14-bc19-041deab09f5c","4a00e68d-b385-458f-aac6-719959a37280","3a26f80c-4867-4e36-949a-553c403433e0", "65ddf1c8-1c8f-4b97-ad87-33d5816c447e","bb5b9677-eea0-44cb-825c-2d40010aad71"],
+            "Grade": []
+        }],
+        "spring": [{
+ 
+        }],
+        "summer": [{
+
+        }]
+
     }],
     "majorGPA": 3.7,
     "notes":"...",
     "tranferCredits":0
     
 
-},{
+},
+{
     "userid":"5c280f3c-c2a8-4f0a-abe4-754a9aee5bff",
     "advisorid":"133c3a78-9644-4334-aec5-2640e0c12259",
     "major":"177cb7f6-2b0e-4718-a68d-327c6252a88a",
     "classification":"Junior",
-    "year": [{
-        "courseCode": ["f3f0c399-8e05-4ac8-b80c-82c63360ffa8","458fa4fb-af61-48e5-b33f-ae4f65b2feb0"],
-        "Grade": ["A","B","c","A","B+","A","B","C","B+","A","A","B+","A","B","C","A","B","c","A","B+"]
+    "year1": [{ "fall": [{
+        "courseCodes": ["b5e7e0d0-f63f-4e14-bc19-041deab09f5c","4a00e68d-b385-458f-aac6-719959a37280","3a26f80c-4867-4e36-949a-553c403433e0", "65ddf1c8-1c8f-4b97-ad87-33d5816c447e","bb5b9677-eea0-44cb-825c-2d40010aad71"],
+        "Grade": ["A","B","C","A","B+"]
+    }],
+    "spring": [{
+        "courseCodes": ["bb5b9677-eea0-44cb-825c-2d40010aad71","577ed51a-9123-43da-a09a-629e139ad276","49a0d284-1de7-4511-b481-ff6d60b7339b", "17ac1913-d4ae-4ab4-aa39-4cceeaa36d4d", "408e3294-1714-4f2f-bbc0-498385b662fc" ],
+        "Grade": ["A","B","C","B+","A"]
+    }],
+    "summer": [{
+       
+    }]
 
     }],
-    "year": [{
-        "courseCode": [],
-        "Grade": ["A","A","B+","A","C","B+","A","A","B","C","A","B+","A","C","B+","B","C","B+","A","A"]
+    "year2": [{
+        "fall": [{
+            "courseCodes": ["b5e7e0d0-f63f-4e14-bc19-041deab09f5c","4a00e68d-b385-458f-aac6-719959a37280","3a26f80c-4867-4e36-949a-553c403433e0", "65ddf1c8-1c8f-4b97-ad87-33d5816c447e","bb5b9677-eea0-44cb-825c-2d40010aad71"],
+            "Grade": ["A","B","C","A","B+"]
+        }],
+        "spring": [{
+            "courseCodes": ["bb5b9677-eea0-44cb-825c-2d40010aad71","577ed51a-9123-43da-a09a-629e139ad276","49a0d284-1de7-4511-b481-ff6d60b7339b", "17ac1913-d4ae-4ab4-aa39-4cceeaa36d4d", "408e3294-1714-4f2f-bbc0-498385b662fc" ],
+            "Grade": ["A","B","C","B+","A"]
+        }],
+        "summer": [{
+       
+        }]
+
     }],
-    "year": [{
-        "courseCode": [],
-        "Grade": ["A","A","B+","A","C","B+","A","A","B","C","B+","A","C","B+","A","c","B+","A","C","B+"]
+    "currentYear": [{
+        "fall": [{
+            "courseCodes": ["b5e7e0d0-f63f-4e14-bc19-041deab09f5c","4a00e68d-b385-458f-aac6-719959a37280","3a26f80c-4867-4e36-949a-553c403433e0", "65ddf1c8-1c8f-4b97-ad87-33d5816c447e","bb5b9677-eea0-44cb-825c-2d40010aad71"],
+            "Grade": []
+        }],
+        "spring": [{
+         
+        }],
+        "summer": [{
+
+        }]
+
     }],
     "notes":"...",
     "tranferCredits":80
     
     },
     {
-    "userid":"50809b79-5942-4dd6-9b8b-e64af7066bb6",
-    "advisorid":"6f938748-c8cc-475e-b260-81baad2de5ae",
-    "major":"177cb7f6-2b0e-4718-a68d-327c6252a88a",
-    "classification":"Junior",
-    "liberalArts": [{
-        "courseCode": [],
-        "Grade": []
+        "userid":"5c280f3c-c2a8-4f0a-abe4-754a9aee5bff",
+        "advisorid":"133c3a78-9644-4334-aec5-2640e0c12259",
+        "major":"177cb7f6-2b0e-4718-a68d-327c6252a88a",
+        "classification":"Freshman",
+        "currentYear": [{
+            "courseCode": ["f3f0c399-8e05-4ac8-b80c-82c63360ffa8","458fa4fb-af61-48e5-b33f-ae4f65b2feb0","3a26f80c-4867-4e36-949a-553c403433e0", "65ddf1c8-1c8f-4b97-ad87-33d5816c447e","bb5b9677-eea0-44cb-825c-2d40010aad71"],
+            "Grade": []
+        }],
+        "notes":"...",
+        "tranferCredits":30
+        
 
-    }],
-    "electives": [{
-        "courseCode": [],
-        "Grade": []
-    }],
-    "applicationArea": [{
-        "courseCode": [],
-        "Grade": []
-    }],
-    "notes":"...",
-    "tranferCredits":47
-    
-    }
-    
-]
+}]

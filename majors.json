@@ -12,33 +12,50 @@
         "hoursElectives": [4,13],
         "courseCodeMajor": ["MATH241","MATH344","MATH344L"],
         "hoursMajor": 16
-}],
-    "coursescodesElec": [
-        "ENGL101", "MATH141", "CSCE145", "CSCE190", "ENGL102", "MATH142", 
-        "CHEM111", "PHYS211", "CHEM 111L", "PHYS211L", "CSCE146", "CSCE215", 
-        "CSCE211", "CSCE240", "MATH374", "CHEM112", "PHYS212", "CHEM112L", 
-        "PHYS212L", "SPCH140", "SPCH145", "SPCH230", "CSCE212", "CSCE247", 
-        "MATH241", "CSCE311", "CSCE330","CSCE350", "CSCE390", "ENGL462", 
-        "ENGL463", "CSCE416", "STAT509", "CSCE490", "CSCE355", "MATH344",
-        "MATH344L", "CSCE492", 
-        "CAROLINA_CORE_GSS", "CAROLINA_CORE_GHS", "CAROLINA_CORE_GFL",  
-        "CAROLINA_CORE_AIU", "APP_AREA_ELECTIVE", "CS_ELECTIVE",  
-        "LIB_ARTS_ELECTIVE", "LAB_ELECTIVE"
-    ]
+    }],
+
+    "carolinaCore": [{
+        "courseCodeCarolinaCore": ["ENGL101","ENGL102","SPCH101"],
+        "hoursFoundational": [35,41]
+    }],
+    "majorRequirements": [{
+        "courseCodeMajor": ["CSCE311","MATH344","MATH344L"],
+        "hoursFoundational": 21,
+        "courseCodeMajorElectives": ["075dc2b0-8f5a-4fdd-8f9e-9925317b9650","740f0ce5-16b1-4915-b377-0f7082110193","ASTR 101"],
+        "hoursElectives": 9,
+        "courseCodeConcentration": ["MATH241","MATH344","MATH344L"],
+        "hoursMajor": 12
+    }],
+    "totalMajorHours":120
+
 },{
     "majorid":"177cb7f6-2b0e-4718-a68d-327c6252a88a",
     "name":"CIS",
     "description":"Computer Information Systems",
-    "coursescodes": [
-        "ENGL101", "MATH122", "MATH141", "CSCE145", "CSCE190", "ENGL102",
-        "CSCE146", "CSCE215", "CSCE205", "CSCE242", "CSCE210", "CSCE247",
-        "ECON224", "SPCH140", "SPCH145", "SPCH230", "CSCE201", "CSCE240",
-        "MATH174", "MATH374", "MGSC290", "CSCE350", "CSCE390", "STAT515",
-        "STAT509", "ACCT222", "MGMT371", "ENGL462", "ENGL463", "CSCE520",
-        "CSCE594", "STAT516", "CSCE490", "CSCE416", "CSCE522", "CSCE492",
-        "CIS_ELECTIVE", "CAROLINA_CORE_SCI", "CAROLINA_CORE_AIU",
-        "CAROLINA_CORE_GSS", "CAROLINA_CORE_GFL", "BIM_MINOR_ELECTIVE", 
-        "CAROLINA_CORE_GHS", "LIB_ARTS_ELECTIVE"
-    ]
+    "totalHoursprogramRequirements":[46,55],
+    "programRequirements": [{
+        "courseCodeFoundational": ["MATH241","MATH344","MATH344L"],
+        "hoursFoundational": 16,
+        "courseCodeLab": ["075dc2b0-8f5a-4fdd-8f9e-9925317b9650","740f0ce5-16b1-4915-b377-0f7082110193","ASTR 101"],
+        "hoursLab": 4,
+        "courseCodeElectives": [""],
+        "hoursElectives": [4,13],
+        "courseCodeMajor": ["MATH241","MATH344","MATH344L"],
+        "hoursMajor": 16
+    }],
+
+    "carolinaCore": [{
+        "courseCodeCarolinaCore": ["ENGL101","ENGL102","SPCH101"],
+        "hoursFoundational": [35,41]
+    }],
+    "majorRequirements": [{
+        "courseCodeMajor": ["CSCE311","MATH344","MATH344L"],
+        "hoursFoundational": 21,
+        "courseCodeMajorElectives": ["075dc2b0-8f5a-4fdd-8f9e-9925317b9650","740f0ce5-16b1-4915-b377-0f7082110193","ASTR 101"],
+        "hoursElectives": 9,
+        "courseCodeConcentration": ["MATH241","MATH344","MATH344L"],
+        "hoursMajor": 12
+    }],
+    "totalMajorHours":120
 }
 ]
