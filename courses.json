@@ -2,7 +2,7 @@
     "prerequisite":[
         {
             "requireType": "or",
-            {"courseID": "MATH142"}
+            "courseID": "MATH142"
         }
     ],
     "courseID": "662bea32-9ceb-4f83-9c1d-b3d413c5e017",
@@ -18,11 +18,11 @@
     "prerequisite":[
         {
             "requireType":"and",
-            {"courseID": "458fa4fb-af61-48e5-b33f-ae4f65b2feb0"}
-        }
+            "courseID": "458fa4fb-af61-48e5-b33f-ae4f65b2feb0"
+        },
         {
             "requireType":"pre_or_coreq",
-            {"courseID":["MATH122","MATH141"]}
+            "courseID":["MATH122","MATH141"]
     }],
     "courseID":"c4f3f3a2-cfcf-4612-9b9e-d830514ba2c4",
     "courseKey":"CSCE146",
@@ -49,11 +49,11 @@
     "prerequisite":[
         {
             "requireType":"coreq",
-            {"courseID": "740f0ce5-16b1-4915-b377-0f7082110193"}
+            "courseID": "740f0ce5-16b1-4915-b377-0f7082110193"
         },
         {
             "requireType":"or",
-            {"courseID":["5ca3f004-9c79-4054-9e8b-548f7c096907","91730226-f79b-4fe0-b976-6f72d3c328b5"]}  
+            "courseID":["5ca3f004-9c79-4054-9e8b-548f7c096907","91730226-f79b-4fe0-b976-6f72d3c328b5"]  
     }],   
     "courseID": "075dc2b0-8f5a-4fdd-8f9e-9925317b9650",
     "courseKey":"CHEM111",
@@ -69,11 +69,11 @@
     "prerequisite":[
         {
             "requireType":"coreq",
-            {"courseID": "740f0ce5-16b1-4915-b377-0f7082110193"}
+            "courseID": "740f0ce5-16b1-4915-b377-0f7082110193"
         },
         {
             "requireType":"and",
-            {"courseID":["5ca3f004-9c79-4054-9e8b-548f7c096907","91730226-f79b-4fe0-b976-6f72d3c328b5"]}
+            "courseID":["5ca3f004-9c79-4054-9e8b-548f7c096907","91730226-f79b-4fe0-b976-6f72d3c328b5"]
         }
     ],   
     "courseID": "740f0ce5-16b1-4915-b377-0f7082110193",
@@ -101,7 +101,7 @@
     "prerequisite":[
         {
             "requireType":"or",
-            {"courseID": "5ca3f004-9c79-4054-9e8b-548f7c096907"}
+            "courseID": "5ca3f004-9c79-4054-9e8b-548f7c096907"
         }
     ],        
     "courseID": "91730226-f79b-4fe0-b976-6f72d3c328b5",
@@ -130,7 +130,7 @@
     "prerequisite":[
         {
             "requireType":"or",
-            {"courseID": "962c9a4e-7bd7-4fe4-adf1-bf9a0bf911c6"}
+            "courseID": "962c9a4e-7bd7-4fe4-adf1-bf9a0bf911c6"
         }
     ],    
     "courseID": "46fb49c2-44de-40df-9043-fc935c1f16e6",
@@ -147,7 +147,7 @@
     "prerequisite":[
         {
             "requireType":"and",
-            {"courseID":["5ca3f004-9c79-4054-9e8b-548f7c096907","91730226-f79b-4fe0-b976-6f72d3c328b5"]}
+            "courseID":["5ca3f004-9c79-4054-9e8b-548f7c096907","91730226-f79b-4fe0-b976-6f72d3c328b5"]
         }
     ],     
     "courseID": "458fa4fb-af61-48e5-b33f-ae4f65b2feb0",
@@ -164,7 +164,7 @@
     "prerequisite":[
         {
             "requireType":"or",
-            {"courseID":["458fa4fb-af61-48e5-b33f-ae4f65b2feb0"]}
+            "courseID":["458fa4fb-af61-48e5-b33f-ae4f65b2feb0"]
         }
     ],     
     "courseID": "a629aefc-4e61-4fb7-a2f1-3f6b68d35784",
@@ -181,7 +181,7 @@
     "prerequisite":[
         {
             "requireType":"or",
-            {"courseID":["458fa4fb-af61-48e5-b33f-ae4f65b2feb0"]}
+            "courseID":["458fa4fb-af61-48e5-b33f-ae4f65b2feb0"]
         }
     ],     
     "courseID": "f3f0c399-8e05-4ac8-b80c-82c63360ffa8",
