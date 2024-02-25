@@ -6,6 +6,7 @@
     "lastName":"Doe",
     "age":20,
     "email": "jlDoe@email.sc.edu",
+    "password": "password1",
     "userType": "Student"
     },
 
@@ -16,6 +17,7 @@
     "lastName":"Sue",
     "age":18,
     "email": "masue@email.sc.edu",
+    "password": "password2",
     "userType": "Student"
     },
         
@@ -26,6 +28,7 @@
     "lastName":"Johnson",
     "age":19,
     "email": "tdjohnson@email.sc.edu",
+    "password": "password3",
     "userType": "Student"
     },
 
@@ -36,6 +39,7 @@
     "lastName":"Stevens",
     "age":36,
     "email": "markStevens@mailbox.sc.edu",
+    "password": "password4",
     "userType": "advisor"
     },
 
@@ -47,6 +51,7 @@
     "lastName":"Seed",
     "age":28,
     "email": "johnnyapple@mailbox.sc.edu",
+    "password": "password5",
     "userType": "advisor"
     },
     {
@@ -56,6 +61,7 @@
     "lastName":"carry",
     "age":30,
     "email": "jimcarry@mailbox.sc.edu",
+    "password": "password6",
     "userType": "advisor"
     }
     ,
@@ -66,6 +72,7 @@
     "lastName":"Me",
     "age":26,
     "email": "lucyMe@mailbox.sc.edu",
+    "password": "password7",
     "userType": "admin"
     }
     ,
@@ -76,6 +83,7 @@
     "lastName":"goin",
     "age":39,
     "email": "stacygoin@mailbox.sc.edu",
+    "password": "password8",
     "userType": "admin"
     }
     ,
@@ -86,6 +94,7 @@
     "lastName":"black",
     "age":34,
     "email": "scarletblack@mailbox.sc.edu",
+    "password": "password9",
     "userType": "admin"
     }
 ]
